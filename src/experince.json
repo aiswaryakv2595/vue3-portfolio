@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Mern Stack Developer",
+    "company_name": "LabGex Innovations Private Limited",
+    "icon": "teentechies",
+    "iconBg": "#E6DEDD",
+    "date": "January 2024 - Present",
+    "points": [
+      "Developing and maintaining full stack application using Nodejs ,Reactjs and Nextjs"
+     
+    ]
+  },
+  {
+    "title": "Associate Web Developer",
+    "company_name": "Teentechies private limited",
+    "icon": "teentechies",
+    "iconBg": "#E6DEDD",
+    "date": "September 2020 - Feb 2022",
+    "points": [
+      "Updated back-end code for Delivor, a popular food delivery service mobile app with over 6000 users.",
+      "Managed and supervised the analytical department and database for the project, also mentoring and providing training to interns"
+     
+    ]
+  },
+    {
+        "title": "Associate Customer Support",
+        "company_name": "Tech Mahindra",
+        "icon": "techm",
+        "iconBg": "#383E56",
+        "date": "November 2018 - June 2019",
+        "points": [
+          "Effectively responded to incoming phone and chat contacts from consumers, consistently adhering to quality- and time-sensitive call center criteria.",
+          "Accurately entered customer interaction details into software, ensuring seamless tracking of requests,documentation of problems, and recording of solutions offered."
+        ]
+      }
+    
+ 
+  ]
+  
